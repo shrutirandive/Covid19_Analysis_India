@@ -1,4 +1,5 @@
-# ML_Covid19-Analysis_pandas_numpy_matplotlib
+## ML_Covid19_Analysis_India
+
 Covid19 India analysis using pandas, numpy, matplotlib and seaborn
 
 dependent variable - no. of confirm cases
